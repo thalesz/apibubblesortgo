@@ -14,6 +14,10 @@ Este projeto é uma API simples construída com o framework Gin em Go, que imple
 
 Este endpoint recebe um conjunto de números inteiros separados por vírgulas na query string e retorna o array ordenado, juntamente com os passos intermediários do algoritmo.
 
+
+ex: /bubblesort?numbers=1,70,20,54,269
+
+
 #### Parâmetros
 
 - `numbers` (obrigatório): Uma string contendo números inteiros separados por vírgulas. Exemplo: `numbers=5,3,8,2,1`
