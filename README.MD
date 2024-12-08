@@ -37,7 +37,7 @@ ex: /bubblesort?numbers=1,70,20,54,269
 2. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/bubble-sort-api.git
+    git clone https://github.com/thalesz/apibubblesortgo
     cd bubble-sort-api
     ```
 
